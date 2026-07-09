@@ -21,11 +21,11 @@ Organizar meus estudos da faculdade e dos cursos complementares, mantendo um his
 
 ## Organização do repositório
 
-```text
+text
 ## Organização do repositório
 
-- [01-semestre](./01-semestre)
-- [02-semestre](./02-semestre)
-- [03-semestre](./03-semestre)
-- [04-semestre](./04-semestre)
-- [05-semestre](./05-semestre)
+[01-semestre](./01-semestre)
+[02-semestre](./02-semestre)
+[03-semestre](./03-semestre)
+[04-semestre](./04-semestre)
+[05-semestre](./05-semestre)
