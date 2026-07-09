@@ -22,8 +22,12 @@ Organizar meus estudos da faculdade e dos cursos complementares, mantendo um his
 ## Organização do repositório
 
 
-- [01-semestre](./01-semestre)
-- [02-semestre](./02-semestre)
-- [03-semestre](./03-semestre)
-- [04-semestre](./04-semestre)
-- [05-semestre](./05-semestre)
+- [01-modulo](./01-modulo)
+- [02-modulo](./02-modulo)
+- [03-modulo](./03-modulo)
+- [04-modulo](./04-modulo)
+- [05-modulo](./05-modulo)
+
+## Status
+
+Repositório em construção, sendo atualizado conforme avanço nos módulos da graduação.
