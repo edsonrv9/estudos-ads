@@ -17,3 +17,8 @@ Módulo concluído em 2026/1.
 ## Objetivo
 
 Registrar os conteúdos estudados, atividades realizadas e principais aprendizados do primeiro módulo da graduação.
+
+---
+
+[⬅ Voltar para a página inicial](../README.md)
+
