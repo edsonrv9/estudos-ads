@@ -17,3 +17,8 @@ Módulo ainda não iniciado.
 ## Objetivo
 
 Registrar os conteúdos estudados, atividades realizadas e principais aprendizados do quinto módulo da graduação.
+
+---
+
+[⬅ Voltar para a página inicial](../README.md)
+

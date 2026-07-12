@@ -17,3 +17,8 @@ Módulo iniciado em 2026/2.
 ## Objetivo
 
 Registrar os conteúdos estudados, atividades realizadas e principais aprendizados do segundo módulo da graduação.
+
+---
+
+[⬅ Voltar para a página inicial](../README.md)
+

@@ -29,3 +29,8 @@ Registrar os principais aprendizados sobre os componentes de um computador, func
 ## Status
 
 Disciplina concluída no Módulo 1.
+
+---
+
+[⬅ Voltar para o Módulo 1](../README.md)
+
